@@ -1,6 +1,6 @@
 {
     "name": "node-cloudfoundry-actuator-runtime-integration",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Direct integration of cloudfoundry  actuator into nodejs runtime",
     "main": "lib/index.js",
     "scripts": {
